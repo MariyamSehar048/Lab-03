@@ -5,3 +5,7 @@ int a = 5;
 int b = 8;
 int sum = a + b ;
 Console.WriteLine(" sum of a and b is " + sum);
+int a = 5;
+int b = 8;
+int sub = a - b ;
+Console.WriteLine(" sub of a and b is " + sub);
