@@ -1,3 +1,7 @@
 # Lab-03
 Console.WriteLine("Seher ");
 Console.WriteLine(24-ST-048");
+int a = 5;
+int b = 8;
+int sum = a + b ;
+Console.WriteLine(" sum of a and b is " + sum);
